@@ -1,1 +1,1 @@
-localhost ansible_user=shrutik ansible_ssh_pass=123 ansible_ssh_common_args='-o StrictHostKeyChecking=no'
+ansible_host=localhost ansible_user=shrutik ansible_ssh_pass=123 ansible_ssh_common_args='-o StrictHostKeyChecking=no'
