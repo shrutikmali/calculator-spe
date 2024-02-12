@@ -19,4 +19,4 @@
         name: docker
         state: started
     - name: Running container
-      shell: docker run -it -d --name calculator shrutik15/calculator
+      shell: docker run -it -d shrutik15/calculator
